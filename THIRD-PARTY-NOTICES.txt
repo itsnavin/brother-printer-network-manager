@@ -1,0 +1,17 @@
+Brother Network Manager is independent software, not affiliated with Brother.
+Brother and DCP-T820DW are trademarks of their respective owners.
+No Brother software, manual text, drivers or firmware is redistributed.
+
+The Windows self-contained distribution includes Microsoft .NET runtime and
+Windows Desktop runtime components, licensed under MIT and their respective
+third-party notices. Runtime license and notice files are included separately
+under runtime-licenses in the release ZIP, copied from the exact restored
+Microsoft runtime packages used to publish this application.
+
+Source and license references:
+https://github.com/dotnet/runtime/blob/main/LICENSE.TXT
+https://github.com/dotnet/runtime/blob/main/THIRD-PARTY-NOTICES.TXT
+https://github.com/dotnet/wpf/blob/main/LICENSE.TXT
+https://github.com/dotnet/wpf/blob/main/THIRD-PARTY-NOTICES.TXT
+
+No third-party application NuGet packages are used.
